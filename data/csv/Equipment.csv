@@ -1,0 +1,14 @@
+item,role,power_or_rating,unit_cost_usd,notes
+Radio transmitter 1 kW,Uplink,1 kW,5000,Tier 1 carrier
+Radio transmitter 50 kW,Uplink,50 kW,80000,Tier 2-3
+Laser system 100 kW-class,Optical uplink,100 kW,500000,"IR, adaptive optics"
+Parabolic antenna 10 m,RF gain,N/A,20000,Steerable dish
+Parabolic antenna 70 m class,RF gain,N/A,2500000,"Deep-space class, shared"
+Phased array panel set,Beam steering,N/A,150000,Electronic scan
+Cryogenic LNA receiver,Downlink,noise-temp limited,40000,Radio listen side
+Photon-counting array,Optical downlink,N/A,120000,Laser receive
+Lithium battery bank,Storage,storage,10000,Ride-through
+Diesel generator 500 kW,Backup prime mover,500 kW,30000,Not for continuous TX
+Solar array 50 kW,Primary power,50 kW,25000,Daytime baseload
+Tracking / pointing computer,Control,N/A,15000,Ephemeris + closed loop
+Cooling skid,Thermal,N/A,18000,High-power RF and laser

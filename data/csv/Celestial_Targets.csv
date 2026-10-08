@@ -1,0 +1,5 @@
+target_id,name,distance_ly,ra_dec,time_to_target_days,tier_guidance,notes
+1,Proxima Centauri,4.25,"RA 14h 29m, Dec -62 40",1552.3125,1-2,Nearest star; Tier 1-2 viable as a symbol shot
+2,Tau Ceti,11.9,"RA 01h 44m, Dec -15 56",4346.475,2+,Quiet G-class analog; Tier 2+
+3,TRAPPIST-1,39.5,"RA 23h 06m, Dec -05 02",14427.375,3+,Seven Earth-size planets; Tier 3+
+4,M13 Hercules cluster,25000,"RA 16h 41m, Dec +36 28",9131250,4,Arecibo 1974 target class; Tier 4 only

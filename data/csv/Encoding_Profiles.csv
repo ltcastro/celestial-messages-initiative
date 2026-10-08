@@ -1,0 +1,5 @@
+profile_id,tier_min,channel,modulation,fec,payload
+1,1,Radio,OOK / FSK,Shortened RS,"UTF-8 text, primes primer"
+2,2,Radio,BPSK,RS + repeats,Prime-dimension 2-D bitmap
+3,3,Radio + laser fallback,BPSK / PPM,RS + convolutional inner,Arecibo-style grid + short audio
+4,4,Directed laser + radio hail,SCPPM + BPSK hail,RS(255223)-class + LDPC option,Text + image + spectrogram
