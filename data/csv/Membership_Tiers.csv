@@ -1,0 +1,5 @@
+tier,name,power_kw,cost_month_usd,cost_year_usd,encoding_class
+1,Basic,1,10,120,Binary OOK/FSK + short RS
+2,Standard,10,50,600,BPSK + shortened RS + 2-D bitmap
+3,Premium,100,200,2400,Arecibo grid + RS + laser PPM fallback
+4,Elite,500,1000,12000,Multi-modal + SCPPM laser + RS(255,223)-class

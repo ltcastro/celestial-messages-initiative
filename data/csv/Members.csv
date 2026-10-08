@@ -1,0 +1,9 @@
+member_id,name,age,location,tier,status,demographics
+1,Alice Johnson,34,"Austin, Texas, USA",1,Active,"Female, engineer"
+2,Bob Smith,45,"Pasadena, California, USA",2,Active,"Male, radio astronomer"
+3,Carol Lee,28,"Brooklyn, New York, USA",3,Active,"Female, artist"
+4,David Kim,52,"Waco, Texas, USA",4,Active,"Male, entrepreneur"
+5,Elena Rossi,39,"Bologna, Italy",2,Active,"Female, physicist"
+6,Farid Hassan,31,"Muscat, Oman",3,Active,"Male, software"
+7,Grace Okonkwo,44,"Lagos, Nigeria",1,Active,"Female, educator"
+8,Hiro Tanaka,36,"Sendai, Japan",4,Active,"Male, optical engineer"
